@@ -1,0 +1,9 @@
+Andela level up program
+1. HTML
+2. JavaScript
+3. Python (Flask)
+4. Git
+5. Unix commands
+6. Algorithms (Programming Logic)
+7. PostgnSQL / MySQL
+8. AGILE (Pivotal Tracker)
